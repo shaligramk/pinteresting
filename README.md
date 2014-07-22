@@ -1,6 +1,3 @@
-# One Month Rails
+Pinteresting Web App
 
-This is the pinteresting sample application for 
-[ *One Month Rails*] (http://onemonthrails.com)
-
-by Shawn Shaligram
+This web application is a Pinterest-like clone built with Ruby on Rails. Based on the course by [ *One Month Rails*] (http://onemonthrails.com)
