@@ -11,3 +11,14 @@
  *= require_self
  *= require_tree .
  */
+
+@media (min-width: 768px) {
+		.navbar >.container .navbar-brand {
+		margin-left: -15px;
+		color: #d9534f;
+	}
+
+	.navbar-default .navbar-nav>li>a {
+		color: #d9534f;
+	}
+}
